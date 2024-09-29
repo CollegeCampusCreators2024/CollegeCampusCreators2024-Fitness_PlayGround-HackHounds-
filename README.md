@@ -18,7 +18,7 @@ Open [http://localhost/phptut/Projects/College_REPO/Project-%20Fitness%20Hub/bef
 
 
 ## Team Details
-1.) Nikhil Banthia (leader) Contact: [7014581250], [nikhilbanth783@gmail.com]
+1.) Nikhil Banthia (Team leader) Contact: [7014581250], [nikhilbanth783@gmail.com]
 
 2.) Prakash                 Contact: [8209898022], [prakash18052006@gmail.com]
 
