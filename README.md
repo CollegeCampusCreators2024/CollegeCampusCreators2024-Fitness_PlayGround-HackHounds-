@@ -1,4 +1,4 @@
-##Fitness_PlayGround-HackHounds-
+## Fitness_PlayGround-HackHounds-
 An Innovative Website aiming to encourage "COMPETITIVE SPIRIT OF SOUND FITNESS & SPORTS"
 
 ## Getting Started
@@ -13,5 +13,5 @@ start MySQL
 # or
 start phpmyadmin
 ```
-
+## Now Website Open
 Open [http://localhost/phptut/Projects/College_REPO/Project-%20Fitness%20Hub/before_login/homepage.html] with your browser to see the result.
