@@ -15,3 +15,11 @@ start phpmyadmin
 ```
 ## Now Website Open
 Open [http://localhost/phptut/Projects/College_REPO/Project-%20Fitness%20Hub/before_login/homepage.html] with your browser to see the result.
+
+
+## Team Details
+1.) Nikhil Banthia (leader) Contact: [7014581250], [nikhilbanth783@gmail.com]
+
+2.) Prakash                 Contact: [8209898022], [prakash18052006@gmail.com]
+
+3.) Piyush Purohit          Contact: [6367483860], [Piyushpurohit074@gmail.com]
