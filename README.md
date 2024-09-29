@@ -1,5 +1,5 @@
 ## Fitness_PlayGround-HackHounds-
-An Innovative Website aiming to encourage "COMPETITIVE SPIRIT OF SOUND FITNESS & SPORTS"
+An Innovative Website aiming to encourage "Competitive spirit of sound fitness & Sports"
 
 ## Getting Started
 First, Install xampp Local Server from [https://www.apachefriends.org/] and setup xampp server.
